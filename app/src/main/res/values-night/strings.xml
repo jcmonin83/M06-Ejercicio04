@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_usuario">Usuario</string>
+    <string name="prompt_contrasena">Contraseña</string>
+    <string name="prompt_login">Entrar</string>
+    <string name="label_registro">Registrate</string>
+    <string name="label_usuario">Usuario</string>
+    <string name="label_nombre">Nombre</string>
+    <string name="label_Email">Email</string>
+    <string name="label_Apellido">Apellido</string>
+    <string name="label_guardar">Guardar</string>
+</resources>
